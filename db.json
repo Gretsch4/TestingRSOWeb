@@ -1,14 +1,32 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "pub_event_id":1,
+    "title":"Downtown 5k Training Program",
+    "lat":28.5922,
+    "lon":-81.3483
+  },
+  {
+   "pub_event_id":2,
+   "title":"SCUBA scub",
+   "lat":28.5539,
+   "lon":-81.2510
+  },
+  {
+   "pub_event_id":3,
+   "title":"UCF Veterans Flag Day",
+   "lat":28.595630,
+   "lon":-81.199525
+  },
+  {
+   "pub_event_id":4,
+   "title":"Conscious Thought Cafe: Moral Decline in America?",
+   "lat":28.608139,
+   "lon":-81.192316
+  },
+  {
+   "pub_event_id":5,
+   "title":"Candid Conversations: Professors Have Feelings, Too",
+   "lat":28.591734,
+   "lon":-81.176694
   }
-}
+]
